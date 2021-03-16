@@ -11,4 +11,4 @@ Aplicação simples de listagem de filmes por categoria, a fim de praticar conce
 
 ### Demonstração:
 
-<img alt="Listagem de filmes" src="https://github.com/gnunesinf/demos/blob/master/watchme.gif" width="1260" height="720"/>
+<img alt="Listagem de filmes" src="https://github.com/gnunesinf/demos/blob/master/watchme.gif"/>
